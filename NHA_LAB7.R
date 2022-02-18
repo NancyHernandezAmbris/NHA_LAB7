@@ -1,53 +1,53 @@
-Hecho con gusto por Carla Carolina P閞ez Hern醤dez (UAEH)
+Hecho con gusto por NANCY HERN脕NDEZ AMBRIS
 
-# Laboratorio - Gesti髇 de datos de red - curadur韆 de datos
+# Laboratorio - Gesti贸n de datos de red - curadur铆a de datos
 
-# Objetivo: Explorar la organizaci髇 de los datos
+# Objetivo: Explorar la organizaci贸n de los datos
 # ------------------------------------------------------------------------------------------------------
 # En este ejercicio vamos a:
-# 1. Cargar nuestra matriz hipot閠ica de datos
+# 1. Cargar nuestra matriz hipot茅tica de datos
 # 2. Transformar la matriz en un dataframe
 # 3. Conventir un dataframe en matriz
 
 
 ########################################
-# LABORATORIO: Gesti髇 de datos de red #
+# LABORATORIO: Gesti贸n de datos de red #
 ########################################
 
-Hecho con gusto por Carla Carolina P閞ez Hern醤dez (UAEH)
+Hecho con gusto por Carla Carolina P茅rez Hern谩ndez (UAEH)
 
-# Laboratorio - Gesti髇 de datos de red - curadur韆 de datos
+# Laboratorio - Gesti贸n de datos de red - curadur铆a de datos
 
-# Objetivo: Explorar la organizaci髇 de los datos
+# Objetivo: Explorar la organizaci贸n de los datos
 # ------------------------------------------------------------------------------------------------------
 # En este ejercicio vamos a:
-# 1. Cargar nuestra matriz hipot閠ica de datos
+# 1. Cargar nuestra matriz hipot茅tica de datos
 # 2. Transformar la matriz en un dataframe
 # 3. Conventir un dataframe en matriz
 
 
 ########################################
-# LABORATORIO: Gesti髇 de datos de red #
+# LABORATORIO: Gesti贸n de datos de red #
 ########################################
 
-Hecho con gusto por Carla Carolina P閞ez Hern醤dez (UAEH)
+Hecho con gusto por Carla Carolina P茅rez Hern谩ndez (UAEH)
 
-# Laboratorio - Gesti髇 de datos de red - curadur韆 de datos
+# Laboratorio - Gesti贸n de datos de red - curadur铆a de datos
 
-# Objetivo: Explorar la organizaci髇 de los datos
+# Objetivo: Explorar la organizaci贸n de los datos
 # ------------------------------------------------------------------------------------------------------
 # En este ejercicio vamos a:
-# 1. Cargar nuestra matriz hipot閠ica de datos
+# 1. Cargar nuestra matriz hipot茅tica de datos
 # 2. Transformar la matriz en un dataframe
 # 3. Conventir un dataframe en matriz
 
 
 ########################################
-# LABORATORIO: Gesti髇 de datos de red #
+# LABORATORIO: Gesti贸n de datos de red #
 ########################################
 
 
-# Gesti髇 de datos de red
+# Gesti贸n de datos de red
 # 1. Transformar la matriz en un dataframe
 
 library (EconGeo)
@@ -66,7 +66,7 @@ M
 ?RCA
 
 
-# La forma m醩 usual de encontrar los datos
+# La forma m谩s usual de encontrar los datos
 
 EL = get.list(M)
 colnames(EL) = c("Customer","Product","Count")
@@ -86,7 +86,7 @@ MM
 get.matrix(EL)
 
 #Buscar Andrea
-# Gesti髇 de datos de red
+# Gesti贸n de datos de red
 # 1. Transformar la matriz en un dataframe
 
 library (EconGeo)
@@ -104,7 +104,7 @@ M = as.matrix(
 ?RCA
 
 
-# La forma m醩 usual de encontrar los datos
+# La forma m谩s usual de encontrar los datos
 
 
 
@@ -121,7 +121,7 @@ M = as.matrix(
 
 
 #Buscar Andrea
-# Gesti髇 de datos de red
+# Gesti贸n de datos de red
 # 1. Transformar la matriz en un dataframe
 
 library (EconGeo)
@@ -139,7 +139,7 @@ M = as.matrix(
 ?RCA
 
 
-# La forma m醩 usual de encontrar los datos
+# La forma m谩s usual de encontrar los datos
 
 
 
