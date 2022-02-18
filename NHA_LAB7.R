@@ -10,36 +10,7 @@ Hecho con gusto por NANCY HERNÁNDEZ AMBRIS
 # 3. Conventir un dataframe en matriz
 
 
-########################################
-# LABORATORIO: Gestión de datos de red #
-########################################
 
-Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
-
-# Laboratorio - Gestión de datos de red - curaduría de datos
-
-# Objetivo: Explorar la organización de los datos
-# ------------------------------------------------------------------------------------------------------
-# En este ejercicio vamos a:
-# 1. Cargar nuestra matriz hipotética de datos
-# 2. Transformar la matriz en un dataframe
-# 3. Conventir un dataframe en matriz
-
-
-########################################
-# LABORATORIO: Gestión de datos de red #
-########################################
-
-Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
-
-# Laboratorio - Gestión de datos de red - curaduría de datos
-
-# Objetivo: Explorar la organización de los datos
-# ------------------------------------------------------------------------------------------------------
-# En este ejercicio vamos a:
-# 1. Cargar nuestra matriz hipotética de datos
-# 2. Transformar la matriz en un dataframe
-# 3. Conventir un dataframe en matriz
 
 
 ########################################
